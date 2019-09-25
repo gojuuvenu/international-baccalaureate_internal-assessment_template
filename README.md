@@ -12,7 +12,7 @@ A problem with Big Sean and music in general is that it's made for a specific en
 Sep-Oct (month 0-1)
 *Psuedo code the project
 *Confirm with people that my playlist is legit
-*Confirm that I have the list of things to censor correct
+*Confirm that I have the list of things to censor by checking up with clients.
 
 
 Oct-Nov (month 1-2)
@@ -25,13 +25,15 @@ Nov-Dec (month 2-1)
 
 continue working on the censoring, I think ill first do the curse words
 then things that are less common like drugs materialism,love etc.
-
+Feedback feature on the website so I can get feedback from people online
 
 Dec-Jan (month 3-4)
-publish the website and spread word of it on twitter.com as well as instagram.con
+Finish interface, add a bunch of filler stuff to make the website look more complete and professional.
+publish the website and spread word of it on twitter.com as well as instagram.com, tag Big sean and hopefully he sees it.
+ ****Actually use the website in situations that the client shared they often find themselves in
  
 Jan-Feb (month 4-5)
-Upload prototype to Instagram or twitter
+Implement feedback, start working on DLC if I have time. If a person shares the website they get acess to another subsection of the website with Kanye songs.
 Feb-March (month 5-6)
 
-Install feedback and make it its own website or something
+Install and send the link to clients, or just show them in person
