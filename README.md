@@ -1,5 +1,4 @@
-[Write your project name]
-Big Sean Song Censorizer
+# Big Sean Song Censorizer
 
 
 write the question your project seeks to find a solution for
@@ -23,9 +22,9 @@ Oct-Nov (month 1-2)
 
 Nov-Dec (month 2-1)
 
-continue working on the censoring, I think ill first do the curse words
-then things that are less common like drugs materialism,love etc.
-Feedback feature on the website so I can get feedback from people online
+* continue working on the censoring, I think ill first do the curse words
+* then things that are less common like drugs materialism,love etc.
+* Feedback feature on the website so I can get feedback from people online
 
 Dec-Jan (month 3-4)
 *Finish interface, add a bunch of filler stuff to make the website look more complete and professional.
