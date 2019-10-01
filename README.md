@@ -43,7 +43,7 @@ Feb-March (month 5-6)
 
 
 
-# interview (it was bad)
+# interview (it was bad, ima do more)
 
 
 
