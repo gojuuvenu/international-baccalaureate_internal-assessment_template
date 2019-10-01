@@ -43,7 +43,8 @@ Feb-March (month 5-6)
 
 
 
-# interview
+# interview (it was bad)
+
 
 
 when do you listen
