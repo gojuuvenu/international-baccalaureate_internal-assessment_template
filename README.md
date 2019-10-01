@@ -9,6 +9,7 @@ write a paragraph describing your client, your client's problem, and the solutio
 A problem with Big Sean and music in general is that it's made for a specific enviromental. Often my clients want to play music in the house or for their family members, but the song pertains to a club environment, or maybe they want to play a club song but it has to much lyrics about love. My solution is to make a website where the user is presented with things to censor based on the lyrics of the song, if they for example click on drugs then every song lyric mentioning drugs will be censored making it appropriate for environments were drug talk is not allowed.
 
 Sep-Oct (month 0-1)
+
 *Psuedo code the project
 *Confirm with people that my playlist is legit
 *Confirm that I have the list of things to censor by checking up with clients.
