@@ -28,12 +28,83 @@ then things that are less common like drugs materialism,love etc.
 Feedback feature on the website so I can get feedback from people online
 
 Dec-Jan (month 3-4)
-Finish interface, add a bunch of filler stuff to make the website look more complete and professional.
-publish the website and spread word of it on twitter.com as well as instagram.com, tag Big sean and hopefully he sees it.
- ****Actually use the website in situations that the client shared they often find themselves in
+*Finish interface, add a bunch of filler stuff to make the website look more complete and professional.
+*publish the website and spread word of it on twitter.com as well as instagram.com, tag Big sean and hopefully he sees it.
+*Actually use the website in situations that the client shared they often find themselves in
  
 Jan-Feb (month 4-5)
-Implement feedback, start working on DLC if I have time. If a person shares the website they get acess to another subsection of the website with Kanye songs.
-Feb-March (month 5-6)
+*Implement feedback, start working on DLC if I have time. If a person shares the website they get acess to another subsection *of the website with Kanye songs.
 
-Install and send the link to clients, or just show them in person
+Feb-March (month 5-6)
+*Install and send the link to clients, or just show them in person
+
+
+
+
+
+
+# interview
+
+
+when do you listen
+When im doing homework, walking to school, home, walking around,  using the bathroom, before bed.
+
+sure yeah,
+
+what percent of the time
+Idk, maybe like 40% of the time,
+
+what would happen if you took headphones off it would play on loud speaker
+
+is that a problem
+
+yeah
+
+why
+
+my parents probably wouldn't care about the cursing but they dont want to hear my stuff.
+Nothing's wrong they just want to hear hear
+
+what do they listen to 
+
+rap and rock
+
+thats your genre right?
+
+well yeah but they also like reggae and blues,
+
+I always use my headphones
+
+I could play it low but 
+
+what artists do you listen to
+
+big sean, logic, j cole only the best
+
+
+
+I dont think they know who they are
+
+if you were to play a song which one
+
+skyscrapers
+
+would they be ok with the subject matter
+
+probably not
+
+if they were to what lyrics
+
+none but it would be awkard
+
+do you enjoy the clean version
+
+nah its trash
+
+what if they only censored a line that you dont like
+
+no, i hate censoreship
+
+what if you had the option?
+
+hmmmn
