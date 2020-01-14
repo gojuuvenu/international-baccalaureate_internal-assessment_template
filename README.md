@@ -51,6 +51,9 @@ A website and mobile app will be built using html java and css for the website a
 *include all desired features between me and the client
 
 [Write a bulleted list of criteria you will use to define the success of your product. Each criteria must be testable. A criteria is similar to a hypothesis; a testable and educated estimation of what your results your product will return.]
+
+# Appendix
+
 # interview (it was bad, ima do more)
 
 
