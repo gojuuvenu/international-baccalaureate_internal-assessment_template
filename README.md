@@ -54,7 +54,7 @@ A website and mobile app will be built using html java and css for the website a
 
 # Appendix
 
-# interview (it was bad, ima do more)
+# interview 
 
 
 
